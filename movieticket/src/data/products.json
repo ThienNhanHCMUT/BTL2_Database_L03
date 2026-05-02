@@ -1,0 +1,12 @@
+[
+  { "productId": "P_001", "name": "Bắp rang bơ (Lớn)", "type": "Bắp rang", "basePrice": 49000, "status": "Có sẵn", "image": "🍿", "sizeOption": "L" },
+  { "productId": "P_002", "name": "Bắp rang bơ (Vừa)", "type": "Bắp rang", "basePrice": 39000, "status": "Có sẵn", "image": "🍿", "sizeOption": "M" },
+  { "productId": "P_003", "name": "Coca-Cola 32oz", "type": "Nước uống", "basePrice": 32000, "status": "Có sẵn", "image": "🥤", "sizeOption": "L" },
+  { "productId": "P_004", "name": "Coca-Cola 22oz", "type": "Nước uống", "basePrice": 25000, "status": "Có sẵn", "image": "🥤", "sizeOption": "M" },
+  { "productId": "P_005", "name": "Combo Solo", "type": "Combo", "basePrice": 69000, "status": "Có sẵn", "image": "🎬", "sizeOption": null, "note": "1 Bắp lớn + 1 Nước lớn" },
+  { "productId": "P_006", "name": "Combo Couple", "type": "Combo", "basePrice": 109000, "status": "Có sẵn", "image": "💑", "sizeOption": null, "note": "1 Bắp lớn + 2 Nước lớn" },
+  { "productId": "P_007", "name": "Combo Family", "type": "Combo", "basePrice": 159000, "status": "Có sẵn", "image": "👨‍👩‍👧‍👦", "sizeOption": null, "note": "2 Bắp lớn + 4 Nước lớn" },
+  { "productId": "P_008", "name": "Snack Thái", "type": "Snack", "basePrice": 29000, "status": "Có sẵn", "image": "🥜", "sizeOption": null },
+  { "productId": "P_009", "name": "Hotdog Classic", "type": "Snack", "basePrice": 39000, "status": "Có sẵn", "image": "🌭", "sizeOption": null },
+  { "productId": "P_010", "name": "Nước suối", "type": "Nước uống", "basePrice": 15000, "status": "Có sẵn", "image": "💧", "sizeOption": null }
+]

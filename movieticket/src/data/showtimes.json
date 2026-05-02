@@ -1,0 +1,41 @@
+[
+  { "showtimeId": "ST_001", "movieId": "M_001", "cinemaId": "CINE_QT", "roomNumber": "R_QT_01", "startTime": "2026-04-16T09:30:00", "basePrice": 75000, "language": "Lồng tiếng", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_002", "movieId": "M_001", "cinemaId": "CINE_QT", "roomNumber": "R_QT_02", "startTime": "2026-04-16T12:00:00", "basePrice": 75000, "language": "Lồng tiếng", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_003", "movieId": "M_001", "cinemaId": "CINE_QT", "roomNumber": "R_QT_01", "startTime": "2026-04-16T14:30:00", "basePrice": 75000, "language": "Lồng tiếng", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_004", "movieId": "M_001", "cinemaId": "CINE_QT", "roomNumber": "R_QT_02", "startTime": "2026-04-16T17:00:00", "basePrice": 85000, "language": "Lồng tiếng", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_005", "movieId": "M_001", "cinemaId": "CINE_QT", "roomNumber": "R_QT_01", "startTime": "2026-04-16T19:30:00", "basePrice": 85000, "language": "Lồng tiếng", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_006", "movieId": "M_001", "cinemaId": "CINE_QT", "roomNumber": "R_QT_02", "startTime": "2026-04-16T21:45:00", "basePrice": 85000, "language": "Lồng tiếng", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+
+  { "showtimeId": "ST_010", "movieId": "M_002", "cinemaId": "CINE_QT", "roomNumber": "R_QT_04", "startTime": "2026-04-16T10:00:00", "basePrice": 75000, "language": "Lồng tiếng", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_011", "movieId": "M_002", "cinemaId": "CINE_QT", "roomNumber": "R_QT_04", "startTime": "2026-04-16T14:00:00", "basePrice": 75000, "language": "Lồng tiếng", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_012", "movieId": "M_002", "cinemaId": "CINE_QT", "roomNumber": "R_QT_04", "startTime": "2026-04-16T18:00:00", "basePrice": 85000, "language": "Lồng tiếng", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_013", "movieId": "M_002", "cinemaId": "CINE_QT", "roomNumber": "R_QT_04", "startTime": "2026-04-16T20:30:00", "basePrice": 85000, "language": "Lồng tiếng", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+
+  { "showtimeId": "ST_020", "movieId": "M_003", "cinemaId": "CINE_SV", "roomNumber": "R_SV_01", "startTime": "2026-04-16T09:00:00", "basePrice": 55000, "language": "Phụ đề Việt", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_021", "movieId": "M_003", "cinemaId": "CINE_SV", "roomNumber": "R_SV_02", "startTime": "2026-04-16T11:30:00", "basePrice": 55000, "language": "Phụ đề Việt", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_022", "movieId": "M_003", "cinemaId": "CINE_SV", "roomNumber": "R_SV_01", "startTime": "2026-04-16T14:00:00", "basePrice": 55000, "language": "Phụ đề Việt", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_023", "movieId": "M_003", "cinemaId": "CINE_SV", "roomNumber": "R_SV_03", "startTime": "2026-04-16T16:30:00", "basePrice": 65000, "language": "Phụ đề Việt", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_024", "movieId": "M_003", "cinemaId": "CINE_SV", "roomNumber": "R_SV_01", "startTime": "2026-04-16T19:00:00", "basePrice": 65000, "language": "Phụ đề Việt", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+
+  { "showtimeId": "ST_030", "movieId": "M_004", "cinemaId": "CINE_VVK", "roomNumber": "R_VVK_01", "startTime": "2026-04-16T10:00:00", "basePrice": 75000, "language": "Phụ đề Việt", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_031", "movieId": "M_004", "cinemaId": "CINE_VVK", "roomNumber": "R_VVK_01", "startTime": "2026-04-16T13:30:00", "basePrice": 75000, "language": "Phụ đề Việt", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_032", "movieId": "M_004", "cinemaId": "CINE_VVK", "roomNumber": "R_VVK_01", "startTime": "2026-04-16T20:00:00", "basePrice": 85000, "language": "Phụ đề Việt", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+
+  { "showtimeId": "ST_040", "movieId": "M_005", "cinemaId": "CINE_HBT", "roomNumber": "R_HBT_02", "startTime": "2026-04-16T09:30:00", "basePrice": 85000, "language": "Lồng tiếng", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_041", "movieId": "M_005", "cinemaId": "CINE_HBT", "roomNumber": "R_HBT_02", "startTime": "2026-04-16T14:00:00", "basePrice": 85000, "language": "Lồng tiếng", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_042", "movieId": "M_005", "cinemaId": "CINE_HBT", "roomNumber": "R_HBT_01", "startTime": "2026-04-16T19:00:00", "basePrice": 120000, "language": "Lồng tiếng", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+
+  { "showtimeId": "ST_050", "movieId": "M_008", "cinemaId": "CINE_QT", "roomNumber": "R_QT_03", "startTime": "2026-04-16T10:00:00", "basePrice": 95000, "language": "Phụ đề Việt", "format": "IMAX", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_051", "movieId": "M_008", "cinemaId": "CINE_QT", "roomNumber": "R_QT_03", "startTime": "2026-04-16T15:00:00", "basePrice": 95000, "language": "Phụ đề Việt", "format": "IMAX", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_052", "movieId": "M_008", "cinemaId": "CINE_QT", "roomNumber": "R_QT_03", "startTime": "2026-04-16T20:00:00", "basePrice": 110000, "language": "Phụ đề Việt", "format": "IMAX", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_053", "movieId": "M_008", "cinemaId": "CINE_Q7", "roomNumber": "R_Q7_01", "startTime": "2026-04-16T11:00:00", "basePrice": 75000, "language": "Phụ đề Việt", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_054", "movieId": "M_008", "cinemaId": "CINE_Q7", "roomNumber": "R_Q7_01", "startTime": "2026-04-16T18:00:00", "basePrice": 85000, "language": "Phụ đề Việt", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+
+  { "showtimeId": "ST_060", "movieId": "M_001", "cinemaId": "CINE_SV", "roomNumber": "R_SV_04", "startTime": "2026-04-16T10:00:00", "basePrice": 55000, "language": "Lồng tiếng", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_061", "movieId": "M_001", "cinemaId": "CINE_SV", "roomNumber": "R_SV_05", "startTime": "2026-04-16T15:00:00", "basePrice": 55000, "language": "Lồng tiếng", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_062", "movieId": "M_001", "cinemaId": "CINE_SV", "roomNumber": "R_SV_04", "startTime": "2026-04-16T19:30:00", "basePrice": 65000, "language": "Lồng tiếng", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+
+  { "showtimeId": "ST_070", "movieId": "M_005", "cinemaId": "CINE_Q7", "roomNumber": "R_Q7_02", "startTime": "2026-04-16T10:30:00", "basePrice": 75000, "language": "Lồng tiếng", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_071", "movieId": "M_005", "cinemaId": "CINE_Q7", "roomNumber": "R_Q7_02", "startTime": "2026-04-16T15:30:00", "basePrice": 75000, "language": "Lồng tiếng", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 },
+  { "showtimeId": "ST_072", "movieId": "M_005", "cinemaId": "CINE_Q7", "roomNumber": "R_Q7_02", "startTime": "2026-04-16T20:00:00", "basePrice": 85000, "language": "Lồng tiếng", "format": "2D", "status": "Mở bán", "policyMultiplier": 1.0 }
+]

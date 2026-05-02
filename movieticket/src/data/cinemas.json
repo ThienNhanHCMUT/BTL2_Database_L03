@@ -1,0 +1,73 @@
+[
+  {
+    "cinemaId": "CINE_QT",
+    "name": "MovieTicket Quốc Thanh",
+    "address": "271 Nguyễn Trãi, Cầu Ông Lãnh, Quận 1, TP.HCM",
+    "type": "Cụm rạp tiêu chuẩn",
+    "operatingHours": { "open": "08:00", "close": "23:59" },
+    "phones": ["0281900085", "0987654321"],
+    "city": "Hồ Chí Minh",
+    "rooms": [
+      { "roomNumber": "R_QT_01", "type": "Standard", "audio": "Dolby Atmos", "capacity": 180, "screens": ["2D", "3D"], "config": "standard_large" },
+      { "roomNumber": "R_QT_02", "type": "Standard", "audio": "Dolby 7.1", "capacity": 150, "screens": ["2D", "3D"], "config": "standard_large" },
+      { "roomNumber": "R_QT_03", "type": "IMAX", "audio": "IMAX Enhanced", "capacity": 250, "screens": ["2D", "3D", "IMAX"], "config": "standard_large" },
+      { "roomNumber": "R_QT_04", "type": "Standard", "audio": "Dolby 7.1", "capacity": 120, "screens": ["2D"], "config": "standard_medium" }
+    ]
+  },
+  {
+    "cinemaId": "CINE_SV",
+    "name": "MovieTicket Sinh Viên",
+    "address": "Nhà Văn Hóa Sinh Viên, Đông Hòa, Dĩ An, Bình Dương",
+    "type": "Cụm rạp tiêu chuẩn",
+    "operatingHours": { "open": "08:00", "close": "23:30" },
+    "phones": ["0281900085"],
+    "city": "Bình Dương",
+    "rooms": [
+      { "roomNumber": "R_SV_01", "type": "Standard", "audio": "Dolby 7.1", "capacity": 120, "screens": ["2D"], "config": "standard_medium" },
+      { "roomNumber": "R_SV_02", "type": "Standard", "audio": "Dolby 7.1", "capacity": 120, "screens": ["2D"], "config": "standard_medium" },
+      { "roomNumber": "R_SV_03", "type": "Standard", "audio": "Dolby 7.1", "capacity": 100, "screens": ["2D"], "config": "standard_small" },
+      { "roomNumber": "R_SV_04", "type": "Standard", "audio": "Dolby 7.1", "capacity": 100, "screens": ["2D"], "config": "standard_small" },
+      { "roomNumber": "R_SV_05", "type": "Standard", "audio": "Dolby 7.1", "capacity": 80, "screens": ["2D"], "config": "standard_small" }
+    ]
+  },
+  {
+    "cinemaId": "CINE_VVK",
+    "name": "MovieTicket Võ Văn Kiệt",
+    "address": "1466 Võ Văn Kiệt, Phường 3, Quận 6, TP.HCM",
+    "type": "Cụm rạp tiêu chuẩn",
+    "operatingHours": { "open": "08:00", "close": "23:59" },
+    "phones": ["0281900085"],
+    "city": "Hồ Chí Minh",
+    "rooms": [
+      { "roomNumber": "R_VVK_01", "type": "Standard", "audio": "Dolby Atmos", "capacity": 200, "screens": ["2D", "3D"], "config": "standard_large" },
+      { "roomNumber": "R_VVK_02", "type": "Standard", "audio": "Dolby 7.1", "capacity": 150, "screens": ["2D"], "config": "standard_medium" },
+      { "roomNumber": "R_VVK_03", "type": "4DX", "audio": "Dolby Atmos", "capacity": 100, "screens": ["2D", "4DX"], "config": "standard_small" }
+    ]
+  },
+  {
+    "cinemaId": "CINE_HBT",
+    "name": "MovieTicket Hai Bà Trưng",
+    "address": "135 Hai Bà Trưng, Bến Nghé, Quận 1, TP.HCM",
+    "type": "Cụm rạp cao cấp",
+    "operatingHours": { "open": "08:00", "close": "23:59" },
+    "phones": ["0281900085"],
+    "city": "Hồ Chí Minh",
+    "rooms": [
+      { "roomNumber": "R_HBT_01", "type": "Gold Class", "audio": "Dolby Atmos", "capacity": 50, "screens": ["2D", "3D"], "config": "standard_small" },
+      { "roomNumber": "R_HBT_02", "type": "Standard", "audio": "Dolby 7.1", "capacity": 160, "screens": ["2D", "3D"], "config": "standard_large" }
+    ]
+  },
+  {
+    "cinemaId": "CINE_Q7",
+    "name": "MovieTicket Quận 7",
+    "address": "1058 Nguyễn Văn Linh, Tân Phong, Quận 7, TP.HCM",
+    "type": "Cụm rạp tiêu chuẩn",
+    "operatingHours": { "open": "07:30", "close": "23:30" },
+    "phones": ["0281900085"],
+    "city": "Hồ Chí Minh",
+    "rooms": [
+      { "roomNumber": "R_Q7_01", "type": "Standard", "audio": "Dolby 7.1", "capacity": 180, "screens": ["2D", "3D"], "config": "standard_large" },
+      { "roomNumber": "R_Q7_02", "type": "Standard", "audio": "Dolby 7.1", "capacity": 140, "screens": ["2D"], "config": "standard_medium" }
+    ]
+  }
+]

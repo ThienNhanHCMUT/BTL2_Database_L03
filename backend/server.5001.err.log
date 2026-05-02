@@ -1,0 +1,86 @@
+DB connection error: ConnectionError: Login failed for user 'backend_user'.
+    at D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\mssql\lib\tedious\connection-pool.js:85:17
+    at Connection.onConnect (D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\tedious\lib\connection.js:874:9)
+    at Object.onceWrapper (node:events:623:26)
+    at Connection.emit (node:events:508:28)
+    at Connection.emit (D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\tedious\lib\connection.js:1013:18)
+    at D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\tedious\lib\connection.js:892:14
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11) {
+  code: 'ELOGIN',
+  originalError: ConnectionError: Login failed for user 'backend_user'.
+      at Login7TokenHandler.onErrorMessage (D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\tedious\lib\token\handler.js:186:19)
+      at Readable.<anonymous> (D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\tedious\lib\token\token-stream-parser.js:19:33)
+      at Readable.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushObjectMode (node:internal/streams/readable:540:3)
+      at Readable.push (node:internal/streams/readable:395:5)
+      at nextAsync (node:internal/streams/from:194:22)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5) {
+    code: 'ELOGIN'
+  }
+}
+Database connection is not ready: Login failed for user 'backend_user'.
+DB connection error: ConnectionError: Login failed for user 'backend_user'.
+    at D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\mssql\lib\tedious\connection-pool.js:85:17
+    at Connection.onConnect (D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\tedious\lib\connection.js:874:9)
+    at Object.onceWrapper (node:events:623:26)
+    at Connection.emit (node:events:508:28)
+    at Connection.emit (D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\tedious\lib\connection.js:1013:18)
+    at D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\tedious\lib\connection.js:892:14
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11) {
+  code: 'ELOGIN',
+  originalError: ConnectionError: Login failed for user 'backend_user'.
+      at Login7TokenHandler.onErrorMessage (D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\tedious\lib\token\handler.js:186:19)
+      at Readable.<anonymous> (D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\tedious\lib\token\token-stream-parser.js:19:33)
+      at Readable.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushObjectMode (node:internal/streams/readable:540:3)
+      at Readable.push (node:internal/streams/readable:395:5)
+      at nextAsync (node:internal/streams/from:194:22)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5) {
+    code: 'ELOGIN'
+  }
+}
+DB connection error: ConnectionError: Login failed for user 'backend_user'.
+    at D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\mssql\lib\tedious\connection-pool.js:85:17
+    at Connection.onConnect (D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\tedious\lib\connection.js:874:9)
+    at Object.onceWrapper (node:events:623:26)
+    at Connection.emit (node:events:508:28)
+    at Connection.emit (D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\tedious\lib\connection.js:1013:18)
+    at D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\tedious\lib\connection.js:892:14
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11) {
+  code: 'ELOGIN',
+  originalError: ConnectionError: Login failed for user 'backend_user'.
+      at Login7TokenHandler.onErrorMessage (D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\tedious\lib\token\handler.js:186:19)
+      at Readable.<anonymous> (D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\tedious\lib\token\token-stream-parser.js:19:33)
+      at Readable.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushObjectMode (node:internal/streams/readable:540:3)
+      at Readable.push (node:internal/streams/readable:395:5)
+      at nextAsync (node:internal/streams/from:194:22)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5) {
+    code: 'ELOGIN'
+  }
+}
+DB connection error: ConnectionError: Login failed for user 'backend_user'.
+    at D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\mssql\lib\tedious\connection-pool.js:85:17
+    at Connection.onConnect (D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\tedious\lib\connection.js:874:9)
+    at Object.onceWrapper (node:events:623:26)
+    at Connection.emit (node:events:508:28)
+    at Connection.emit (D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\tedious\lib\connection.js:1013:18)
+    at D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\tedious\lib\connection.js:892:14
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11) {
+  code: 'ELOGIN',
+  originalError: ConnectionError: Login failed for user 'backend_user'.
+      at Login7TokenHandler.onErrorMessage (D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\tedious\lib\token\handler.js:186:19)
+      at Readable.<anonymous> (D:\Phan Ngoc Xuan Loi\CSDL\BTL 2\btl2_v1\btl2_v1\backend\node_modules\tedious\lib\token\token-stream-parser.js:19:33)
+      at Readable.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushObjectMode (node:internal/streams/readable:540:3)
+      at Readable.push (node:internal/streams/readable:395:5)
+      at nextAsync (node:internal/streams/from:194:22)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5) {
+    code: 'ELOGIN'
+  }
+}
+Database connection is not ready: Login failed for user 'backend_user'.
